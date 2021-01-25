@@ -1,0 +1,20 @@
+c:\users\raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\bin\Debug\Quiz - Penjualan Tiket Bioskop.exe
+c:\users\raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\bin\Debug\Quiz - Penjualan Tiket Bioskop.pdb
+c:\users\raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\bin\Debug\Quiz - Penjualan Tiket Bioskop.xml
+c:\users\raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz___Penjualan_Tiket_Bioskop.Form1.resources
+c:\users\raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz___Penjualan_Tiket_Bioskop.Resources.resources
+c:\users\raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz - Penjualan Tiket Bioskop.vbproj.GenerateResource.Cache
+c:\users\raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz - Penjualan Tiket Bioskop.exe
+c:\users\raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz - Penjualan Tiket Bioskop.xml
+c:\users\raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz - Penjualan Tiket Bioskop.pdb
+c:\users\raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz___Penjualan_Tiket_Bioskop.Form2.resources
+C:\Users\Raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz___Penjualan_Tiket_Bioskop.frmBeranda.resources
+C:\Users\Raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz___Penjualan_Tiket_Bioskop.frmTransaksi.resources
+C:\Users\Raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz___Penjualan_Tiket_Bioskop.frmDataFilm.resources
+C:\Users\Raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz___Penjualan_Tiket_Bioskop.frmStudio.resources
+C:\Users\Raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz___Penjualan_Tiket_Bioskop.frmJadwal.resources
+C:\Users\Raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\bin\Debug\Quiz - Penjualan Tiket Bioskop.exe.config
+C:\Users\Raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz - Penjualan Tiket Bioskop.vbprojResolveAssemblyReference.cache
+C:\Users\Raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\Quiz___Penjualan_Tiket_Bioskop.frmLaporan.resources
+C:\Users\Raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\RdlCompile.cache
+C:\Users\Raihan\documents\visual studio 2010\Projects\Quiz - Penjualan Tiket Bioskop\Quiz - Penjualan Tiket Bioskop\obj\x86\Debug\RdlCompile.compiled
